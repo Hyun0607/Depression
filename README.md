@@ -29,6 +29,13 @@
    - 나이 → 청년/중년/노년
    - 소득 → 사분위 기준으로 저소득/중소득/고소득
    - 기타 변수 → 라벨 인코딩 + 원핫 인코딩 혼합 적용
+- 변수 분포 시각화
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bba7bc78-18ce-4338-924d-61e8febf88d6" width="400"/>
+  <img src="https://github.com/user-attachments/assets/32658e00-cecf-475f-8990-887e94ead21a" width="400"/>
+</p>  
+
 3. **분석용 변수 선택**
    - 공선성 확인 후 다중 공선성 변수 제거 (VIF)
    - 최적 feature subset 구성
@@ -43,25 +50,7 @@
 | **의사결정나무 (rpart)** | 분류 기준 시각화, 간단한 규칙 도출 가능 | xerror 기반 가지치기 |
 | **랜덤 포레스트** | 변수 중요도 도출 가능, 높은 예측 성능 | Accuracy 향상 |
 
-> 📈 최종 ROC Curve 및 Confusion Matrix로 모델 성능 비교
-
----
-
-## 🌐 시각화 예시
-
-- 변수 분포 시각화
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bba7bc78-18ce-4338-924d-61e8febf88d6" width="400"/>
-  <img src="https://github.com/user-attachments/assets/32658e00-cecf-475f-8990-887e94ead21a" width="400"/>
-</p>
-
-- 모델 해석 시각화
-
-<p align="center">
-  <img src="./ppt_extract/ppt/media/image3.png" width="400"/>
-  <img src="./ppt_extract/ppt/media/image4.png" width="400"/>
-</p>
+> 📈 Confusion Matrix로 모델 성능 비교
 
 ---
 
