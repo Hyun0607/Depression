@@ -104,25 +104,6 @@
 
 ---
 
-### 📈 모델별 성능 시각화
-
-- 🔹 **로지스틱 회귀**
-  - ROC Curve 시각화  
-  - Threshold 기준 최적 Cutoff 설정  
-  - 📎 _삽입 위치 예시_: `./images/logistic_roc.png`
-
-- 🔹 **의사결정나무**
-  - 모델 구조 트리 시각화  
-  - 가지치기 전후 비교  
-  - 📎 _삽입 위치 예시_: `./images/rpart_tree.png`
-
-- 🔹 **랜덤 포레스트**
-  - 변수 중요도 그래프 (`varImpPlot`)  
-  - Confusion Matrix 비교  
-  - 📎 _삽입 위치 예시_: `./images/rf_importance.png`, `./images/rf_cm.png`
-
----
-
 > ☑️ 각 모델별로 confusion matrix와 성능 지표(AUC, Accuracy)를 비교하여 최종 모델 선정에 활용하였습니다.
 
 ---
