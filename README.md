@@ -74,7 +74,7 @@
 📎 _시각화 자료_
 - `의사결정나무 트리 구조`  
 <p align="center">
-  <img src="./images/결정트리.png" width="400">
+  <img src="./images/결정트리.png" width="800">
 </p> 
   > *Tree 구조를 통해 우울증 예측 기준을 시각적으로 파악 가능*
 
