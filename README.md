@@ -89,11 +89,15 @@
 
 📎 _시각화 자료_
 - `변수 중요도 시각화`:  
-  ![Random Forest Variable Importance](./images/rf_importance.png)  
+<p align="center">
+  <img src="./images/변수중요도.png" width="800">
+</p>
   > *랜덤 포레스트에서 주요 변수들을 시각적으로 도출*
 
 - `Confusion Matrix`:  
-  ![Random Forest CM](./images/rf_cm.png)  
+<p align="center">
+  <img src="./images/랜덤포레스트평가.png" width="800">
+</p> 
   > *랜덤 포레스트 기반 우울증 예측 결과 비교 (정/오분류 결과)*
 
 ---
