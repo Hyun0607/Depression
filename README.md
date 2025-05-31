@@ -56,7 +56,7 @@
 📎 _시각화 자료_
 - `ROC Curve 및 AUC`:  
 <p align="center">
-  <img src="./images/다운로드.png" width="400">
+  <img src="./images/다운로드.png" width="800">
 </p>
   > *AUC를 기반으로 모델의 성능을 평가하고, threshold를 튜닝하여 민감도/특이도 조절*
 
