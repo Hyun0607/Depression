@@ -90,7 +90,7 @@
 📎 _시각화 자료_
 - `변수 중요도 시각화`:  
 <p align="center">
-  <img src="./images/변수중요도.png" width="800">
+  <img src="./images/변수중요2.png" width="800">
 </p>
   > *랜덤 포레스트에서 주요 변수들을 시각적으로 도출*
 
