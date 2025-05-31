@@ -32,9 +32,9 @@
 - 변수 분포 시각화
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bba7bc78-18ce-4338-924d-61e8febf88d6" width="400"/>
-  <img src="https://github.com/user-attachments/assets/32658e00-cecf-475f-8990-887e94ead21a" width="400"/>
-</p>  
+  <img src="./images/다운로드1.png" width="400">
+  <img src="./images/다운로드2.png" width="400">
+</p> 
 
 3. **분석용 변수 선택**
    - 공선성 확인 후 다중 공선성 변수 제거 (VIF)
